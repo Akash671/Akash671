@@ -26,7 +26,7 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 <br>
 <a href="https://www.hackerrank.com/akashsaini454545">Hackerrank</a>
 <br>
-<a href="">Codechef</a>
+<a href="https://www.codechef.com/users/akash1996kumar">Codechef</a>
 <br>
 
 **Mostly use languages... **
