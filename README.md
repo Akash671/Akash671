@@ -22,7 +22,7 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 <br>
 <a href="https://www.facebook.com/profile.php?id=100034209998322">Facebook</a>
 <br>
-<a href="
+<a href="https://auth.geeksforgeeks.org/user/hitmanmit1996/practice/">Geeksforgeeks</a>
 <br>
 
 **Mostly use languages... **
