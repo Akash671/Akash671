@@ -24,6 +24,10 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 <br>
 <a href="https://auth.geeksforgeeks.org/user/hitmanmit1996/practice/">Geeksforgeeks</a>
 <br>
+<a href="https://www.hackerrank.com/akashsaini454545">Hackerrank</a>
+<br>
+<a href="">Codechef</a>
+<br>
 
 **Mostly use languages... **
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash671)
