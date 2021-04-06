@@ -18,7 +18,11 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 
 **Others profile...**  
 <br>
-
+<a href="https://stackoverflow.com/users/14312178/akash-kumar?tab=profile/">Stackoverflow</a>
+<br>
+<a href="https://www.facebook.com/profile.php?id=100034209998322">Facebook</a>
+<br>
+<a href="
 <br>
 
 **Mostly use languages... **
