@@ -49,6 +49,8 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 <a href="https://www.codewars.com/users/Akash671">Codewar</a>
 <br>
 <a href="https://www.coderbyte.com/profile/Akash1996">Codebyte</a>
+<br>
+<a href="https://githubmemory.com/@Akash671">About me</a>
 
 
 
