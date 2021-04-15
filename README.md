@@ -60,8 +60,11 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 
 
                                     **Mostly use languages... **
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash671)![Stats added](https://github-readme-stats.vercel.app/api?username=Akash671&&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash671)            ![Stats added](https://github-readme-stats.vercel.app/api?username=Akash671&&show_icons=true)
 <!--
 ![Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash671)
 -->
-
+![Stats added](https://code.dcoder.tech/profile/akashsaini?username=akashsaini&&show_icons=true)
+<!--
+![Languages Stats](https://code.dcoder.tech/profile/akashsaini/?username=akashsaini)
+-->
