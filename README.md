@@ -61,7 +61,7 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 
 
                                     **Mostly use languages... **
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash671)            
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash671)            <img align="right" alt="GIF" src="https://64.media.tumblr.com/12b5f470bec733ca4951a8d78743f08a/tumblr_mk0szziY2z1qmpg90o1_500.gifv?raw=true" width="500" height="320"/>
 
 
 ![Stats added](https://github-readme-stats.vercel.app/api?username=Akash671&&show_icons=true)
@@ -69,7 +69,3 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 ![Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash671)
 -->
 
-
-
-
-<img align="right" alt="GIF" src="https://64.media.tumblr.com/12b5f470bec733ca4951a8d78743f08a/tumblr_mk0szziY2z1qmpg90o1_500.gifv?raw=true" width="500" height="320"/>
