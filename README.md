@@ -18,15 +18,15 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 <br>
 <a href="https://www.facebook.com/codingcompetitions/hacker-cup/">Facebook Hacker Cup</a>
 <br>
-<a href="https://www.topcoder.com/">Topcoder</a>
+<a href="https://www.topcoder.com/">Topcoder(Akash_1996)</a>
 <br>
 <a href="https://icpc.global/private/profile/584919">ICPC(International Collegiate Programming Contest)</a>
 <br>
-<a href="https://codingcompetitions.withgoogle.com/kickstart/certificate/summary/000000000019ffc6">Google Kick Start</a>
+<a href="https://codingcompetitions.withgoogle.com/kickstart/certificate/summary/000000000019ffc6">Google Kick Start(Akash@1996)</a>
 <br>
-<a href="https://codingcompetitions.withgoogle.com/codejam/certificate/summary/00000000001857b3">Google CodeJam</a>
+<a href="https://codingcompetitions.withgoogle.com/codejam/certificate/summary/00000000001857b3">Google CodeJam(Akash@1996)</a>
 <br>
-<a href="https://code.dcoder.tech/profile/akashsaini">Decoder</a>
+<a href="https://code.dcoder.tech/profile/akashsaini">Decoder(@akashsaini)</a>
 <br>
 <a href="https://nextstep.tcs.com/campus/#/CT20203113369">TCS CodeVita</a>
 <br>
@@ -34,9 +34,9 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 <br>
 <a href="https://www.facebook.com/profile.php?id=100034209998322">Facebook</a>
 <br>
-<a href="https://auth.geeksforgeeks.org/user/hitmanmit1996/practice/">Geeksforgeeks</a>
+<a href="https://auth.geeksforgeeks.org/user/hitmanmit1996/practice/">Geeksforgeeks(hitmanmit1996)</a>
 <br>
-<a href="https://www.hackerrank.com/akashsaini454545">Hackerrank</a>
+<a href="https://www.hackerrank.com/akashsaini454545">Hackerrankhttps://www.hackerrank.com/akashsaini454545)</a>
 <br>
 <a href="http://www.hackerearth.com/@akash4031">Hackerearth</a>
 <br>
