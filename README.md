@@ -42,23 +42,23 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 <br>
 <a href="https://auth.geeksforgeeks.org/user/hitmanmit1996/practice/">Geeksforgeeks(hitmanmit1996)</a>
 <br>
-<a href="https://www.hackerrank.com/akashsaini454545">Hackerrankhttps://www.hackerrank.com/akashsaini454545)</a>
+<a href="https://www.hackerrank.com/akashsaini454545">Hackerrank(akashsaini454545)</a>
 <br>
-<a href="http://www.hackerearth.com/@akash4031">Hackerearth</a>
+<a href="http://www.hackerearth.com/@akash4031">Hackerearth(akash4031)</a>
 <br>
-<a href="https://www.codechef.com/users/akash1996kumar">Codechef</a>
+<a href="https://www.codechef.com/users/akash1996kumar">Codechef(akash1996kumar)</a>
 <br>
-<a href="https://projecteuler.net/profile/Akash1996.png">Project Euler</a>
+<a href="https://projecteuler.net/profile/Akash1996.png">Project Euler(Akash1996)</a>
 <br>
-<a href="https://gitlab.com/Akash671">GitLab</a>
+<a href="https://gitlab.com/Akash671">GitLab(Akash671)</a>
 <br>
-<a href="http://codeforces.com/profile/akashsaini454545">CodeForce</a>
+<a href="http://codeforces.com/profile/akashsaini454545">CodeForce(akashsaini454545)</a>
 <br>
-<a href="https://www.codewars.com/users/Akash671">Codewar</a>
+<a href="https://www.codewars.com/users/Akash671">Codewar(Akash671)</a>
 <br>
-<a href="https://www.coderbyte.com/profile/Akash1996">Codebyte</a>
+<a href="https://www.coderbyte.com/profile/Akash1996">Codebyte(Akash1996)</a>
 <br>
-<a href="https://atcoder.jp/users/Akash_1996">Atcoder</a>
+<a href="https://atcoder.jp/users/Akash_1996">Atcoder(Akash_1996)</a>
 <br>
 <a href="https://githubmemory.com/@Akash671">About me</a>
 
