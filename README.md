@@ -66,5 +66,4 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 ![Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash671)
 -->
 
-
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FGIF&psig=AOvVaw3HSXc7s5KbYSXGNQk4ejWW&ust=1618741031436000&source=images&cd=vfe&ved=0CA0QjhxqFwoTCJi7y6aGhfACFQAAAAAdAAAAABAD.gif)
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif?raw=true" width="500" height="320"/>
