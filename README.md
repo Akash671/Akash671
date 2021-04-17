@@ -66,4 +66,4 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 ![Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash671)
 -->
 
-<img align="right" alt="GIF" src="https://media.tenor.com/images/d1d7f6ef9cf24497a9d61b0a83a0f50e/tenor.gif?raw=true" width="500" height="320"/>
+<img align="right" alt="GIF" src="https://media.tenor.com/images/d1d7f6ef9cf24497a9d61b0a83a0f50e/tenor.gif?raw=true" width="1000" height="320"/>
