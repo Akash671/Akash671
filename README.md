@@ -71,6 +71,10 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 
 
 
-
+<img align="right" alt="GIF" src="<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="akash-kumar-52563018a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/akash-kumar-52563018a?trk=profile-badge">Akash Kumar</a></div>"
+              
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="akash-kumar-52563018a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/akash-kumar-52563018a?trk=profile-badge">Akash Kumar</a></div>
               
+
+
+
