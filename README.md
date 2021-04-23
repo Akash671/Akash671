@@ -1,7 +1,7 @@
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img align="right" alt="GIF" src="https://64.media.tumblr.com/12b5f470bec733ca4951a8d78743f08a/tumblr_mk0szziY2z1qmpg90o1_500.gifv?raw=true" width="600" height="200"/>
+<img align="right" alt="GIF" src="https://64.media.tumblr.com/12b5f470bec733ca4951a8d78743f08a/tumblr_mk0szziY2z1qmpg90o1_500.gifv?raw=true" width="600" height="250"/>
 
 
 
