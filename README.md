@@ -60,8 +60,7 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 <br>
 <a href="https://atcoder.jp/users/Akash_1996">Atcoder(Akash_1996)</a>
 <br>
-<img align="right" alt="Akash's CodeBlock" width="20px" src="http://codeblocks.rogeriodec.com.br/Code-Blocks-Logo.png"/>
-<a href="https://hack.codingblocks.com/app/users/259785">CodeBlock</a>
+<img align="right" alt="Akash's CodeBlock" width="20px" src="http://codeblocks.rogeriodec.com.br/Code-Blocks-Logo.png"/> <a href="https://hack.codingblocks.com/app/users/259785">CodeBlock</a>
 <br>
 <a href="https://githubmemory.com/@Akash671">About me</a>
 
