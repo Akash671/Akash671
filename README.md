@@ -6,7 +6,7 @@
 
 
 
-I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash671</a>),i am a Competitive Programmer and Machine Learning Engineer as a student with strong background in Mathematics, Statistics, and Problem Solving. I am studying Bechlor Of Technology in Computer Science & Engineering at <a href="https://www.mitmoradabad.edu.in/" target="_blank"> Moradabad Institute Of Technology Moradabad, Uttar Pradesh India</a>, with majors in Technology and Bacherlor in Science supported by<a href="https://aktu.ac.in/"> A.P.J Abdul Kalam Technical University(AKTU) </a>with majors in Engineering and Operational Research. <br> <br>
+I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash671</a>),i am a Competitive Programmer and Machine Learning Engineer as a student with strong background in Mathematics, Statistics, and Problem Solving. I am studying Bachelor Of Technology in Computer Science & Engineering at <a href="https://www.mitmoradabad.edu.in/" target="_blank"> Moradabad Institute Of Technology Moradabad, Uttar Pradesh India</a>, with majors in Technology and Bachelor in Science supported by<a href="https://aktu.ac.in/"> A.P.J Abdul Kalam Technical University(AKTU) </a>with majors in Engineering and Operational Research. <br> <br>
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif?raw=true" width="500" height="320"/>
 <br>
 **Contacts**
