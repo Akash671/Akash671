@@ -62,6 +62,8 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 <br>
 <a href="https://hack.codingblocks.com/app/users/259785">CodeBlock</a>
 <br>
+<a href="https://profile.codingninjas.com/6b366c45-0661-4bd6-912b-aa18e9d7783e?_ga=2.120932736.940989445.1619538278-171848948.1616765825">Coding Ninjas</a>
+<br>
 <a href="https://githubmemory.com/@Akash671">About me</a>
 
 
