@@ -101,7 +101,7 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 
 
 # Featured Contents
-              ** software devlopeme**
+              ** software devlopement**
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash671&repo=ML-Project&theme=tokyonight)](https://github.com/xdvrx1/programming-core-concepts)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash671&repo=Algorithms&theme=tokyonight)](https://github.com/xdvrx1/programming-core-concepts)
