@@ -85,7 +85,9 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 
 ![Visitor Count](https://profile-counter.glitch.me/{Akash671}/count.svg)
 
-
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Akash671&label=PROFILE+VIEWS" alt="Akash671"/> 
+</p>
 
 [<img alt="Youtube" src="https://img.shields.io/badge/Youtube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>](https://youtu.be/DgjB3GTsdao) 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/akash-kumar-52563018a/) 
