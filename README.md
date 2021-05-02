@@ -71,7 +71,7 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 
 
                                     **Mostly use languages... **
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash671&hide=scss&layout=compact&theme=blue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash671&hide=scss&layout=compact&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash671)
 
