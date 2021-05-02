@@ -21,7 +21,10 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 <br>
 
                        **Others profile...**
-    <a href="https://www.facebook.com/codingcompetitions/hacker-cup/">Facebook Hacker Cup</a>  <a href="https://www.topcoder.com/">Topcoder(Akash_1996)</a>
+<br>
+<a href="https://www.facebook.com/codingcompetitions/hacker-cup/">Facebook Hacker Cup</a>
+<br>
+<a href="https://www.topcoder.com/">Topcoder(Akash_1996)</a>
 <br>
 <a href="https://icpc.global/private/profile/584919">ICPC(International Collegiate Programming Contest)</a>
 <br>
