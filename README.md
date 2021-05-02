@@ -100,6 +100,8 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 [<img alt="Gmail" src="https://img.shields.io/badge/@hitmanmit1996@GMAİL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](hitmanmit1996@gmail.com)
 
 
+# Featured Contents
+## software devlopement
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash671&repo=ML-Project&theme=tokyonight)](https://github.com/xdvrx1/programming-core-concepts)
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="akash-kumar-52563018a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/akash-kumar-52563018a?trk=profile-badge">Akash Kumar</a></div>
-
