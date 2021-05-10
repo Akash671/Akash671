@@ -10,10 +10,19 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif?raw=true" width="500" height="320"/>
 <br>
 <br>
+
+
+
+---
+
 <div align="center">
 <img src="https://github.com/Akash671/new/blob/master/amu.gif" alt="Akash Kumar">
 </div>
+
+---
 <br>
+
+
 
 **Contacts**
 <br>
