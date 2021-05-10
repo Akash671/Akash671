@@ -1,7 +1,7 @@
 ---
 
 <div align="center">
-<img src="https://github.com/Amruta1311/new/blob/master/amu.gif" alt="Amruta Mulay">
+<img src="https://github.com/Akash671/new/blob/master/amu.gif" alt="Akash Kumar">
 </div>
 
 ---
