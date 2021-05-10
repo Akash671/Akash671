@@ -20,7 +20,7 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 <br>
 <br>
 
-                       **Others profile...**
+             **Others profile...**
 <br>
 <a href="https://www.facebook.com/codingcompetitions/hacker-cup/">Facebook Hacker Cup</a>
 <br>
@@ -39,6 +39,8 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 <a href="https://stackoverflow.com/users/14312178/akash-kumar?tab=profile/">Stackoverflow</a>
 <br>
 <a href="https://www.facebook.com/profile.php?id=100034209998322">Facebook</a>
+<br>
+<a href="https://leetcode.com/Akashmit1996/">leetcode</a>
 <br>
 <a href="https://auth.geeksforgeeks.org/user/hitmanmit1996/practice/">Geeksforgeeks(hitmanmit1996)</a>
 <br>
@@ -70,7 +72,7 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 
 
 
-                                    **Mostly use languages... **
+             **Mostly use languages... **
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash671&hide=scss&layout=compact&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash671)
