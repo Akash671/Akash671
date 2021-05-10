@@ -55,7 +55,6 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 <br>
 <a href="https://www.facebook.com/profile.php?id=100034209998322">Facebook</a>
 <br>
-<br>
 <a href="https://my.newtonschool.co/user/akashsainimit/">Newton School(akashsainimit)</a>
 <br>
 <a href="https://leetcode.com/Akashmit1996/">leetcode(Akashmit1996)</a>
