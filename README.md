@@ -121,8 +121,8 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
               
               
               
-<img align="right" alt="GIF" src="https://i.imgur.com/uUgLY.gif?raw=true" width="650" height="250"/>
-<img align="right" alt="GIF" src="https://giffiles.alphacoders.com/578/57857.gif?raw=true" width="250" height="250"/> 
+<img align="right" alt="GIF" src="https://i.imgur.com/uUgLY.gif?raw=true" width="250" height="250"/>
+<img align="right" alt="GIF" src="https://giffiles.alphacoders.com/578/57857.gif?raw=true" width="650" height="250"/> 
 <br>
 
 
