@@ -1,13 +1,13 @@
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img align="right" alt="GIF" src="https://camo.githubusercontent.com/97d1828fe16ccca3417229fc085cfc96062bd74c8787f80131ddc9462ce4ed51/68747470733a2f2f736f6669616e6568616d6c616f75692e6769746875622e696f2f6a756e6b2f6c6f636b646f6f722f6c6f676f732f6c6f676f323035783235302e676966?raw=true" width="600" height="250"/>
+<img align="right" alt="GIF" src="https://camo.githubusercontent.com/97d1828fe16ccca3417229fc085cfc96062bd74c8787f80131ddc9462ce4ed51/68747470733a2f2f736f6669616e6568616d6c616f75692e6769746875622e696f2f6a756e6b2f6c6f636b646f6f722f6c6f676f732f6c6f676f323035783235302e676966?raw=true" width="400" height="250"/>
 
 
 
 
 I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash671</a>),i am a Competitive Programmer and Machine Learning Engineer as a student with strong background in Mathematics, Statistics, and Problem Solving. I am studying Bachelor Of Technology in Computer Science & Engineering at <a href="https://www.mitmoradabad.edu.in/" target="_blank"> Moradabad Institute Of Technology Moradabad, Uttar Pradesh India</a>, with majors in Technology and Bachelor in Science supported by<a href="https://aktu.ac.in/"> A.P.J Abdul Kalam Technical University(AKTU) </a>with majors in Engineering and Operational Research. <br> <br>
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif?raw=true" width="250" height="100"/>
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif?raw=true" width="500" height="250"/>
 <br>
 <br>
 
@@ -127,10 +127,6 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash671&repo=linux_script&theme=tokyonight)](https://github.com/Akash671/linux_script) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash671&repo=Codechef&theme=tokyonight)](https://github.com/Akash671/Codechef)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash671&repo=AI&theme=tokyonight)](https://github.com/Akash671/AI)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash671&repo=C_C-&theme=tokyonight)](https://github.com/Akash671/C_C-)
-
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="akash-kumar-52563018a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/akash-kumar-52563018a?trk=profile-badge">Akash Kumar</a></div>
-
-
+<br>
+<br>
 <img align="right" alt="GIF" src="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo.gif?raw=true" width="600" height="250"/>
- 
