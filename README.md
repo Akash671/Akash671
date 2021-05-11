@@ -118,4 +118,4 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 
 
               **Thank You**
-              <img align="right" alt="GIF" src="https://i.imgur.com/uUgLY.gif?raw=true" width="250" height="250"/>
+  <img align="right" alt="GIF" src="https://i.imgur.com/uUgLY.gif?raw=true" width="250" height="250"/>
