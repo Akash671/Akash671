@@ -23,7 +23,7 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 <br>
 
 
-  **Contacts**
+**Contacts**
 <br>
 <img align="left" alt="Akash's LinkdeIN" width="26px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/> <a href="https://www.linkedin.com/in/akash-kumar-52563018a/">LinkedIn</a>
 <br>
@@ -33,7 +33,8 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 <img align="left" alt="Akash's Medium" width="80px" src="https://miro.medium.com/max/8976/1*Ra88BZ-CSTovFS2ZSURBgg.png"/> <a href="https://medium.com/@akashsaininasa">Medium</a>
 <br>
 <br>
-    Others Competetive profile...
+
+**Others Competetive profile...**
 <br>
 <a href="https://www.facebook.com/codingcompetitions/hacker-cup/">Facebook Hacker Cup</a>
 <br>
