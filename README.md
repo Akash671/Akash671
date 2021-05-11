@@ -1,8 +1,6 @@
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img align="right" alt="GIF" src="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo.gif?raw=true" width="600" height="250"/>
-
 <img align="right" alt="GIF" src="https://camo.githubusercontent.com/97d1828fe16ccca3417229fc085cfc96062bd74c8787f80131ddc9462ce4ed51/68747470733a2f2f736f6669616e6568616d6c616f75692e6769746875622e696f2f6a756e6b2f6c6f636b646f6f722f6c6f676f732f6c6f676f323035783235302e676966?raw=true" width="600" height="250"/>
 
 
@@ -131,3 +129,7 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="akash-kumar-52563018a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/akash-kumar-52563018a?trk=profile-badge">Akash Kumar</a></div>
+
+
+<img align="right" alt="GIF" src="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo.gif?raw=true" width="600" height="250"/>
+ 
