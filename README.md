@@ -34,8 +34,7 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 <img align="left" alt="Akash's Medium" width="80px" src="https://miro.medium.com/max/8976/1*Ra88BZ-CSTovFS2ZSURBgg.png"/> <a href="https://medium.com/@akashsaininasa">Medium</a>
 <br>
 <br>
-
-<h1>"**Others profile...**"</h1>
+              <h3 style="background-color:powderblue;">**Others profile...**"</h1>
 <br>
 <a href="https://www.facebook.com/codingcompetitions/hacker-cup/">Facebook Hacker Cup</a>
 <br>
