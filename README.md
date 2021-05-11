@@ -10,6 +10,8 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 
 <br>
 <br>
+<br>
+<br>
                                    <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif?raw=true" width="450" height="250"/>
 <br>
 <br>
