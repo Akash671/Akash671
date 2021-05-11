@@ -1,13 +1,13 @@
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img align="right" alt="GIF" src="https://64.media.tumblr.com/12b5f470bec733ca4951a8d78743f08a/tumblr_mk0szziY2z1qmpg90o1_500.gifv?raw=true" width="600" height="250"/>
+<img align="right" alt="GIF" src="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo.gifv?raw=true" width="600" height="250"/>
 
 
 
 
 I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash671</a>),i am a Competitive Programmer and Machine Learning Engineer as a student with strong background in Mathematics, Statistics, and Problem Solving. I am studying Bachelor Of Technology in Computer Science & Engineering at <a href="https://www.mitmoradabad.edu.in/" target="_blank"> Moradabad Institute Of Technology Moradabad, Uttar Pradesh India</a>, with majors in Technology and Bachelor in Science supported by<a href="https://aktu.ac.in/"> A.P.J Abdul Kalam Technical University(AKTU) </a>with majors in Engineering and Operational Research. <br> <br>
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif?raw=true" width="500" height="320"/>
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif?raw=true" width="300" height="200"/>
 <br>
 <br>
 
@@ -20,8 +20,6 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 </div>
 
 ---
-<br>
-<img align="right" alt="GIF" src="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo.gif?raw=true" width="500" height="320"/>
 <br>
 
 
