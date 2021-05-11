@@ -1,7 +1,7 @@
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img align="right" alt="GIF" src="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo.gifv?raw=true" width="600" height="250"/>
+<img align="right" alt="GIF" src="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo.gif?raw=true" width="600" height="250"/>
 
 
 
