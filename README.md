@@ -8,8 +8,9 @@
 
 I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash671</a>),i am a Competitive Programmer and Machine Learning Engineer as a student with strong background in Mathematics, Statistics, and Problem Solving. I am studying Bachelor Of Technology in Computer Science & Engineering at <a href="https://www.mitmoradabad.edu.in/" target="_blank"> Moradabad Institute Of Technology Moradabad, Uttar Pradesh India</a>, with majors in Technology and Bachelor in Science supported by<a href="https://aktu.ac.in/"> A.P.J Abdul Kalam Technical University(AKTU) </a>with majors in Engineering and Operational Research.</a>
 
-<br> <br>
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif?raw=true" width="450" height="250"/>
+<br>
+<br>
+                                   <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif?raw=true" width="450" height="250"/>
 <br>
 <br>
 
@@ -119,4 +120,3 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash671&repo=AI&theme=tokyonight)](https://github.com/Akash671/AI)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash671&repo=C_C-&theme=tokyonight)](https://github.com/Akash671/C_C-)
 <br>
 <br>
-<img align="right" alt="GIF" src="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo.gif?raw=true" width="600" height="250"/>
