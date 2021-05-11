@@ -6,22 +6,12 @@
 
 
 
-I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash671</a>),i am a Competitive Programmer and Machine Learning Engineer as a student with strong background in Mathematics, Statistics, and Problem Solving. I am studying Bachelor Of Technology in Computer Science & Engineering at <a href="https://www.mitmoradabad.edu.in/" target="_blank"> Moradabad Institute Of Technology Moradabad, Uttar Pradesh India</a>, with majors in Technology and Bachelor in Science supported by<a href="https://aktu.ac.in/"> A.P.J Abdul Kalam Technical University(AKTU) </a>with majors in Engineering and Operational Research. <br> <br>
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif?raw=true" width="500" height="250"/>
+I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash671</a>),i am a Competitive Programmer and Machine Learning Engineer as a student with strong background in Mathematics, Statistics, and Problem Solving. I am studying Bachelor Of Technology in Computer Science & Engineering at <a href="https://www.mitmoradabad.edu.in/" target="_blank"> Moradabad Institute Of Technology Moradabad, Uttar Pradesh India</a>, with majors in Technology and Bachelor in Science supported by<a href="https://aktu.ac.in/"> A.P.J Abdul Kalam Technical University(AKTU) </a>with majors in Engineering and Operational Research.</a>
+
+<br> <br>
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif?raw=true" width="450" height="250"/>
 <br>
 <br>
-
-
-
----
-
-<div align="center">
-<img src="https://github.com/Akash671/new/blob/master/amu.gif" alt="Akash Kumar">
-</div>
-
----
-<br>
-
 
 **Contacts**
 <br>
