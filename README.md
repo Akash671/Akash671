@@ -126,16 +126,16 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 <img alt="GIF" src="https://giffiles.alphacoders.com/578/57857.gif?raw=true" width="550" height="260"/><img alt="GIF" src="https://i.imgur.com/uUgLY.gif?raw=true" width="250" height="260"/>
 <br>
 
-About me
-1.Hackerrank
+     About me
+<a href="https://www.hackerrank.com/akashsaini454545">1.Hackerrank</a>
 <br>
 ![image](https://github.com/Akash671/About_me/blob/main/hck.png)
 <br>
-2.GeeksforGeeks
+<a href="https://auth.geeksforgeeks.org/user/hitmanmit1996/practice/">2.GeeksforGeeks</a>
 <br>
 ![image](https://github.com/Akash671/About_me/blob/main/gfg.png)
 <br>
-3.Decoder
+<a href="https://code.dcoder.tech/profile/akashsaini">3.Decoder</a>
 <br>
 ![image](https://github.com/Akash671/About_me/blob/main/decoder.png)
 <br>
