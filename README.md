@@ -127,8 +127,7 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 <br>
 
      About me
-<a href="https://www.hackerrank.com/akashsaini454545">1.Hackerrank</a>
-<br>
+<a href="https://www.hackerrank.com/akashsaini454545">1.Hackerrank</a>     <a href="https://auth.geeksforgeeks.org/user/hitmanmit1996/practice/">2.GeeksforGeeks</a> 
 <img alt="GIF" src="https://github.com/Akash671/About_me/blob/main/hck.png?raw=true" width="450" height="280"/> <img alt="GIF" src="https://github.com/Akash671/About_me/blob/main/gfg.png?raw=true" width="450" height="280"/>
 <br>
 <a href="https://code.dcoder.tech/profile/akashsaini">3.Decoder</a>
