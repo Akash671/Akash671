@@ -127,3 +127,19 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 <br>
 
 
+    About me
+    1.Hackerrank
+<br>
+![image](https://github.com/Akash671/About_me/blob/main/hck.png)
+<br>
+
+    2.GeeksforGeeks
+<br>
+![image](https://github.com/Akash671/About_me/blob/main/gfg.png)
+<br>
+
+    3.Decoder
+<br>
+![image](https://github.com/Akash671/About_me/blob/main/decoder.png)
+<br>
+
