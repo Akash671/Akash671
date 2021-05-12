@@ -65,6 +65,8 @@ Others Competetive profile...
 <br>
 <a href="https://gitlab.com/Akash671">GitLab(Akash671)</a>
 <br>
+<a href="https://try.gitea.io/Akash671">Gitea(Akash671)</a>
+<br>
 <a href="http://codeforces.com/profile/akashsaini454545">CodeForce(akashsaini454545)</a>
 <br>
 <a href="https://www.codewars.com/users/Akash671">Codewar(Akash671)</a>
