@@ -116,7 +116,7 @@ Profile Views
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash671&repo=AI&theme=tokyonight)](https://github.com/Akash671/AI)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash671&repo=C_C-&theme=tokyonight)](https://github.com/Akash671/C_C-)
 <br>
 <br>       
-<img alt="GIF" src="https://giffiles.alphacoders.com/578/57857.gif?raw=true" width="800" height="260"/>
+<img alt="GIF" src="https://giffiles.alphacoders.com/578/57857.gif?raw=true" width="500" height="260"/> <img alt="GIF" src="https://i.imgur.com/uUgLY.gif?raw=true" width="250" height="300"/>
 <br>
 About me
 <br>
