@@ -139,3 +139,5 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 <br>
 ![image](https://github.com/Akash671/About_me/blob/main/decoder.png)
 <br>
+
+<img align="right" alt="image" src="https://www.hackerrank.com/akashsaini454545?raw=true" width="400" height="250"/>
