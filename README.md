@@ -121,7 +121,7 @@ Profile Views
 <br>
 About me
 <br>
-<img align="left" alt="GIF" src="https://github.com/Akash671/About_me/blob/main/hck.png?raw=true" width="400" height="240"/>       <img align="center" alt=GIF" src="https://github.com/Akash671/About_me/blob/main/gfg.png?raw=true" width="400" height="240"/>  
+<img align="left" alt="GIF" src="https://github.com/Akash671/About_me/blob/main/hck.png?raw=true" width="400" height="240"/><img align="center" alt=GIF" src="https://github.com/Akash671/About_me/blob/main/gfg.png?raw=true" width="400" height="240"/>  
 <br>
-<img align="left" alt="GIF" src="https://github.com/Akash671/About_me/blob/main/decoder.png?raw=true" width="400" height="240"/>       <img align="center" alt="GIF" src="https://github.com/Akash671/About_me/blob/main/google.jpg?raw=true" width="400" height="240"</a>
+<img align="left" alt="GIF" src="https://github.com/Akash671/About_me/blob/main/decoder.png?raw=true" width="400" height="240"/><img align="center" alt="GIF" src="https://github.com/Akash671/About_me/blob/main/google.jpg?raw=true" width="400" height="240"</a>
 <br>
