@@ -117,10 +117,11 @@ Profile Views
 <br>
 <br>       
               
-<img alt="GIF" src="https://giffiles.alphacoders.com/578/57857.gif?raw=true" width="550" height="260"/>
+<img alt="GIF" src="https://giffiles.alphacoders.com/578/57857.gif?raw=true" width="760" height="260"/>
 <br>
 
 About me
+<br>
 <img align="left" alt="GIF" src="https://github.com/Akash671/About_me/blob/main/hck.png?raw=true" width="450" height="240"/><img align="center" alt="GIF" src="https://github.com/Akash671/About_me/blob/main/gfg.png?raw=true" width="450" height="240"/>
 <br>
 <br>
