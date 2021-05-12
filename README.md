@@ -16,7 +16,7 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 <br>
 <br>
 
-**Contacts**
+[Contacts]
 <br>
 <img align="left" alt="Akash's LinkdeIN" width="26px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/> <a href="https://www.linkedin.com/in/akash-kumar-52563018a/">LinkedIn</a>
 <br>
@@ -27,7 +27,7 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 <br>
 <br>
 
-**Others Competetive profile...**
+Others Competetive profile...
 <br>
 <a href="https://www.facebook.com/codingcompetitions/hacker-cup/">Facebook Hacker Cup</a>
 <br>
@@ -81,14 +81,14 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 
 
 
-             **Mostly use languages... **
+      Mostly use languages..
  <a href="https://github.com/Akash671">
 <img align="center" alt="Akash's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Akash671&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>      <a href="https://github.com/Akash671">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Akash671&layout=compact&theme=radical&langs_count=10" />
 </a>            
  
 
-**Profile Views**
+Profile Views
 
 ![Visitor Count](https://profile-counter.glitch.me/{Akash671}/count.svg)
 
@@ -106,27 +106,21 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 
 
 # Featured Contents
-              ** software devlopement**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash671&repo=ML-Project&theme=tokyonight)](https://github.com/Akash671/ML-Project) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash671&repo=Algorithms&theme=tokyonight)](https://github.com/Akash671/Algorithms)
+   software devlopement
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash671&repo=ML-Project&theme=tokyonight)](https://github.com/Akash671/ML-Project)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash671&repo=Algorithms&theme=tokyonight)](https://github.com/Akash671/Algorithms)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash671&repo=KickStart&theme=tokyonight)](https://github.com/Akash671/KickStart) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash671&repo=geeksforgeeks&theme=tokyonight)](https://github.com/Akash671/geeksforgeeks)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash671&repo=KickStart&theme=tokyonight)](https://github.com/Akash671/KickStart)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash671&repo=geeksforgeeks&theme=tokyonight)](https://github.com/Akash671/geeksforgeeks)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash671&repo=linux_script&theme=tokyonight)](https://github.com/Akash671/linux_script) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash671&repo=Codechef&theme=tokyonight)](https://github.com/Akash671/Codechef)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash671&repo=linux_script&theme=tokyonight)](https://github.com/Akash671/linux_script)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash671&repo=Codechef&theme=tokyonight)](https://github.com/Akash671/Codechef)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash671&repo=AI&theme=tokyonight)](https://github.com/Akash671/AI)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash671&repo=C_C-&theme=tokyonight)](https://github.com/Akash671/C_C-)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash671&repo=AI&theme=tokyonight)](https://github.com/Akash671/AI)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash671&repo=C_C-&theme=tokyonight)](https://github.com/Akash671/C_C-)
 <br>
-<br>
-
-
-
-              **Bye**
-              
-              
+<br>       
               
 <img alt="GIF" src="https://giffiles.alphacoders.com/578/57857.gif?raw=true" width="550" height="260"/>
 <br>
 
-     About me
+   About me
 <img align="left" alt="GIF" src="https://github.com/Akash671/About_me/blob/main/hck.png?raw=true" width="450" height="240"/><img align="center" alt="GIF" src="https://github.com/Akash671/About_me/blob/main/gfg.png?raw=true" width="450" height="240"/>
 <br>
 <br>
