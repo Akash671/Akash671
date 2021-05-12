@@ -127,10 +127,10 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 <br>
 
      About me
-<img alt="GIF" src="https://github.com/Akash671/About_me/blob/main/hck.png?raw=true" width="450" height="280"/><img alt="GIF" src="https://github.com/Akash671/About_me/blob/main/gfg.png?raw=true" width="450" height="280"/>
+<img alt="GIF" src="https://github.com/Akash671/About_me/blob/main/hck.png?raw=true" width="450" height="280"/> <img alt="GIF" src="https://github.com/Akash671/About_me/blob/main/gfg.png?raw=true" width="450" height="280"/>
 <br>
 <br>
-<img alt="GIF" src="https://github.com/Akash671/About_me/blob/main/decoder.png?raw=true" width="450" height="280"/><img alt="GIF" src="https://github.com/Akash671/About_me/blob/main/google.jpg?raw=true" width="450" height="280"/>
+<img alt="GIF" src="https://github.com/Akash671/About_me/blob/main/decoder.png?raw=true" width="450" height="280"/> <img alt="GIF" src="https://github.com/Akash671/About_me/blob/main/google.jpg?raw=true" width="450" height="280"/>
 <br>
 
 
