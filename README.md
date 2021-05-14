@@ -21,7 +21,7 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 <img align="left" alt="Akash's LinkdeIN" width="26px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/> <a href="https://www.linkedin.com/in/akash-kumar-52563018a/">LinkedIn</a>
 <br>
 <br>
-<img align="left" alt="Akash's Youtube" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png"/> <a href="https://youtu.be/DgjB3GTsdao">Youtube</a>
+<img align="left" alt="Akash's Youtube" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png"/> <a href="https://www.youtube.com/channel/UCdS5sKVVkfv8ULgbIBNJxQQ">Youtube</a>
 <br><br>
 <img align="left" alt="Akash's Medium" width="80px" src="https://miro.medium.com/max/8976/1*Ra88BZ-CSTovFS2ZSURBgg.png"/> <a href="https://medium.com/@akashsaininasa">Medium</a>
 <br>
@@ -102,7 +102,7 @@ Profile Views
  <a href="https://Akash671.github.io/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2FAkash671.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HOME+PAGE+VIEWS&edge_flat=false"/></a>
 </p>	
 
-[<img alt="Youtube" src="https://img.shields.io/badge/Youtube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>](https://youtu.be/DgjB3GTsdao) 
+[<img alt="Youtube" src="https://img.shields.io/badge/Youtube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>](https://www.youtube.com/channel/UCdS5sKVVkfv8ULgbIBNJxQQ) 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/akash-kumar-52563018a/) 
 [<img alt="Gmail" src="https://img.shields.io/badge/@hitmanmit1996@GMAİL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](hitmanmit1996@gmail.com)
 
