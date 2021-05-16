@@ -59,7 +59,7 @@ Others Competetive profile...
 <br>
 <a href="http://www.hackerearth.com/@akash4031">Hackerearth(akash4031)</a>
 <br>
-<a href="https://www.spoj.com/myaccount/">phere online judge</a>
+<a href="https://www.spoj.com/users/kal103/">phere online judge</a>
 <br>
 <a href="https://www.codechef.com/users/akash1996kumar">Codechef(akash1996kumar)</a>
 <br>
