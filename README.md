@@ -90,7 +90,13 @@ Others Competetive profile...
 <img align="center" alt="Akash's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Akash671&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>      <a href="https://github.com/Akash671">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Akash671&layout=compact&theme=radical&langs_count=10" />
 </a>            
- 
+
+### Languages
+[![HTML](https://img.shields.io/badge/HTML-FAD7A0?style=for-the-badge&logo=HTML5&logoColor=purple)](https://html.com/)[![CSS](https://img.shields.io/badge/CSS-F8D1A4?style=for-the-badge&logo=CSS3&logoColor=white)](http://www.css3.com/)[![JavaScript](https://img.shields.io/badge/JavaScript-F5CBA7?style=for-the-badge&logo=javascript&logoColor=white)](http://www.ecmascript.org/)[![Python](https://img.shields.io/badge/Python-F1C3A0?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+### Databases
+[![MySQL](https://img.shields.io/badge/MySQL-FAD7A0?style=for-the-badge&logo=mysql&logoColor=white)](http://www.ecmascript.org/)
+### Tools
+[![Linux](https://img.shields.io/badge/Linux-FAD7A0?style=for-the-badge&logo=linux&logoColor=white)](https://ubuntu.com/)[![Bash](https://img.shields.io/badge/Bash-F8D1A4?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)[![Git](https://img.shields.io/badge/Git-F5CBA7?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)[![Vim](https://img.shields.io/badge/Vim-F1C3A0?style=for-the-badge&logo=vim&logoColor=white)](https://git-scm.com/)
 
 Profile Views
 
