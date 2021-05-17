@@ -27,8 +27,10 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 <br>
 <br>
 
-Others Competetive profile...
+###Others Competetive profile...
+
 [![Facebook HackerCup](https://img.shields.io/badge/-Facebook%20HackerCup-blueviolet?style=for-the-badge&logo=C++&logoColor=purple)](https://www.facebook.com/codingcompetitions/hacker-cup/)
+
 <br>
 <a href="https://www.facebook.com/codingcompetitions/hacker-cup/">Facebook Hacker Cup</a>
 <br>
