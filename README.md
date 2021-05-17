@@ -92,7 +92,7 @@ Others Competetive profile...
 </a>            
 
 ### Languages
-[![HTML](https://img.shields.io/badge/HTML-FAD7A0?style=for-the-badge&logo=HTML5&logoColor=purple)](https://html.com/)[![CSS](https://img.shields.io/badge/CSS-F8D1A4?style=for-the-badge&logo=CSS3&logoColor=SeaGreen)](http://www.css3.com/)[![JavaScript](https://img.shields.io/badge/JavaScript-F5CBA7?style=for-the-badge&logo=javascript&logoColor=purple)](http://www.ecmascript.org/)[![Python](https://img.shields.io/badge/Python-F1C3A0?style=for-the-badge&logo=python&logoColor=SeaGreen)](https://www.python.org/)
+[![C++](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/150px-ISO_C%2B%2B_Logo.svg.png?style=for-the-badge&logo=C++&logoColor=purple)](https://en.wikipedia.org/wiki/C%2B%2B)[![CSS](https://img.shields.io/badge/CSS-F8D1A4?style=for-the-badge&logo=CSS3&logoColor=SeaGreen)](http://www.css3.com/)[![JavaScript](https://img.shields.io/badge/JavaScript-F5CBA7?style=for-the-badge&logo=javascript&logoColor=purple)](http://www.ecmascript.org/)[![Python](https://img.shields.io/badge/Python-F1C3A0?style=for-the-badge&logo=python&logoColor=SeaGreen)](https://www.python.org/)
 ### Databases
 [![MySQL](https://img.shields.io/badge/MySQL-FAD7A0?style=for-the-badge&logo=mysql&logoColor=purple)](http://www.ecmascript.org/)
 ### Tools
