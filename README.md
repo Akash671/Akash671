@@ -38,12 +38,7 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 <br>
 [![geeksforgeeks](https://img.shields.io/badge/-geeksforgeek(hitmanmit1996)-lightgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=purple)](https://auth.geeksforgeeks.org/user/hitmanmit1996/practice/)  [![hackerrank](https://img.shields.io/badge/-Hackerrank(akashsaini454545)-purple?style=for-the-badge&logo=hackerrank&logoColor=blue)](https://www.hackerrank.com/akashsaini454545) [![hackerearth](https://img.shields.io/badge/-Hackerearth(%40akash4031)-blue?style=for-the-badge&logo=hackerearth&logoColor=purple)](http://www.hackerearth.com/@akash4031">Hackerearth(akash4031))
 <br>
-
-<a href="https://auth.geeksforgeeks.org/user/hitmanmit1996/practice/">Geeksforgeeks(hitmanmit1996)</a>
-<br>
-<a href="https://www.hackerrank.com/akashsaini454545">Hackerrank(akashsaini454545)</a>
-<br>
-<a href="http://www.hackerearth.com/@akash4031">Hackerearth(akash4031)</a>
+[![spoj](https://img.shields.io/badge/-spoj(kal103)-SeaGreen2?style=for-the-badge&logo=spoj&logoColor=purple)](https://www.spoj.com/users/kal103/) [codechef](https://img.shields.io/badge/-codechef(akash1996kumar)-cyan?style=for-the-badge&logo=codechef&logoColor=yellow)](https://www.codechef.com/users/akash1996kumar) [![projecteuler](https://img.shields.io/badge/-projecteuler(Akash1996)-gold?style=for-the-badge&logo=projecteuler&logoColor=green)](https://projecteuler.net/profile/Akash1996.png)
 <br>
 <a href="https://www.spoj.com/users/kal103/">phere online judge(kal103)</a>
 <br>
