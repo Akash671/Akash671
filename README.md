@@ -26,11 +26,10 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 <img align="left" alt="Akash's Medium" width="80px" src="https://miro.medium.com/max/8976/1*Ra88BZ-CSTovFS2ZSURBgg.png"/> <a href="https://medium.com/@akashsaininasa">Medium</a>
 <br>
 <br>
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
 ###Others Competetive profile...
 
 [![Facebook HackerCup](https://img.shields.io/badge/Facebook%20HackerCup-blueviolet?style=for-the-badge&logo=Facebook&logoColor=purple)](https://www.facebook.com/codingcompetitions/hacker-cup/)  [![Topcoder](https://img.shields.io/badge/-Topcoder(Akash__1996)-blueviolet?style=for-the-badge&logo=Topcoder&logoColor=black)](https://www.topcoder.com/)
