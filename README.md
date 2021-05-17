@@ -30,8 +30,8 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 <br>
 ###Others Competetive profile...
 
-[![Facebook HackerCup](https://img.shields.io/badge/Facebook%20HackerCup-blueviolet?style=for-the-badge&logo=Facebook&logoColor=purple)](https://www.facebook.com/codingcompetitions/hacker-cup/)  [![Topcoder](https://img.shields.io/badge/-Topcoder(Akash__1996)-blueviolet?style=for-the-badge&logo=Topcoder&logoColor=black)](https://www.topcoder.com/)
-<br>
+[![Facebook HackerCup](https://img.shields.io/badge/Facebook%20HackerCup-blueviolet?style=for-the-badge&logo=Facebook&logoColor=purple)](https://www.facebook.com/codingcompetitions/hacker-cup/)  [![Topcoder](https://img.shields.io/badge/-Topcoder(Akash__1996)-purple?style=for-the-badge&logo=Topcoder&logoColor=black)](https://www.topcoder.com/) [![ICPC](https://img.shields.io/badge/-icpc-SeaGreen2?style=for-the-badge&logo=icpc&logoColor=hot pink)](https://icpc.global/private/profile/584919)
+
 <a href="https://icpc.global/private/profile/584919">ICPC(International Collegiate Programming Contest)</a>
 <br>
 <a href="https://codingcompetitions.withgoogle.com/kickstart/certificate/summary/000000000019ffc6">Google Kick Start(Akash@1996)</a>
