@@ -32,9 +32,10 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 
 [![Facebook HackerCup](https://img.shields.io/badge/Facebook%20HackerCup-blueviolet?style=for-the-badge&logo=Facebook&logoColor=purple)](https://www.facebook.com/codingcompetitions/hacker-cup/)  [![Topcoder](https://img.shields.io/badge/-Topcoder(Akash__1996)-purple?style=for-the-badge&logo=Topcoder&logoColor=black)](https://www.topcoder.com/) [![kickstart](https://img.shields.io/badge/-google%20kick%20start(Akash%401996)-ff69b4?style=for-the-badge&logo=google&logoColor=purple)](https://codingcompetitions.withgoogle.com/kickstart/certificate/summary/000000000019ffc6)
 <br>
-<a href="https://icpc.global/private/profile/584919">ICPC(International Collegiate Programming Contest)</a>
+[![codejam](https://img.shields.io/badge/-google%20code%20jam(Akash%401996)-yellow?style=for-the-badge&logo=codejam&logoColor=purple)](https://codingcompetitions.withgoogle.com/codejam/certificate/summary/00000000001857b3)  [![Topcoder](https://img.shields.io/badge/-Topcoder(Akash__1996)-purple?style=for-the-badge&logo=Topcoder&logoColor=black)](https://www.topcoder.com/) [![kickstart](https://img.shields.io/badge/-google%20kick%20start(Akash%401996)-ff69b4?style=for-the-badge&logo=google&logoColor=purple)](https://codingcompetitions.withgoogle.com/kickstart/certificate/summary/000000000019ffc6)
 <br>
-<a href="https://codingcompetitions.withgoogle.com/kickstart/certificate/summary/000000000019ffc6">Google Kick Start(Akash@1996)</a>
+<a href="https://icpc.global/private/profile/584919">ICPC(International Collegiate Programming Contest)</a>
+
 <br>
 <a href="https://codingcompetitions.withgoogle.com/codejam/certificate/summary/00000000001857b3">Google CodeJam(Akash@1996)</a>
 <br>
