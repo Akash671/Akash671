@@ -32,7 +32,7 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 
 [![Facebook HackerCup](https://img.shields.io/badge/Facebook%20HackerCup-blueviolet?style=for-the-badge&logo=Facebook&logoColor=purple)](https://www.facebook.com/codingcompetitions/hacker-cup/)  [![Topcoder](https://img.shields.io/badge/-Topcoder(Akash__1996)-purple?style=for-the-badge&logo=Topcoder&logoColor=black)](https://www.topcoder.com/)
 <br>
-[![kickstart](https://img.shields.io/badge/-google%20kick%20start(Akash%401996)-ff69b4?style=for-the-badge&logo=google&logoColor=yellow)](https://codingcompetitions.withgoogle.com/kickstart/certificate/summary/000000000019ffc6)
+[![kickstart](https://img.shields.io/badge/-google%20kick%20start(Akash%401996)-ff69b4?style=for-the-badge&logo=google&logoColor=purple)](https://codingcompetitions.withgoogle.com/kickstart/certificate/summary/000000000019ffc6)
 <br>
 <a href="https://icpc.global/private/profile/584919">ICPC(International Collegiate Programming Contest)</a>
 <br>
