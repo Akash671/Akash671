@@ -44,11 +44,8 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 <br>
 [![codewars](https://img.shields.io/badge/-codewars(Akash671)-gold?style=for-the-badge&logo=Codewars&logoColor=purple)](https://www.codewars.com/users/Akash671)  [![codebyte](https://img.shields.io/badge/-coderbyte(Akash1996)-magenta?style=for-the-badge&logo=Coderbyte&logoColor=yellow)](https://www.coderbyte.com/profile/Akash1996) [![Atcoder](https://img.shields.io/badge/-Atcoder(Akash__1996)-SeaGreen2?style=for-the-badge&logo=AtCoder&logoColor=green)](https://atcoder.jp/users/Akash_1996)
 <br>
-<a href="https://www.codewars.com/users/Akash671">Codewar(Akash671)</a>
 <br>
-<a href="https://www.coderbyte.com/profile/Akash1996">Codebyte(Akash1996)</a>
-<br>
-<a href="https://atcoder.jp/users/Akash_1996">Atcoder(Akash_1996)</a>
+[![CodeBlock](https://img.shields.io/badge/-codeblock(Akash%20kumar)-purple?style=for-the-badge&logo=Coding Blocks&logoColor=purple)](https://hack.codingblocks.com/app/users/259785) [![codingninjas](https://img.shields.io/badge/-coding%20ninjas-blue&logo=Coding Ninjas&logoColor=green)](https://profile.codingninjas.com/6b366c45-0661-4bd6-912b-aa18e9d7783e?_ga=2.120932736.940989445.1619538278-171848948.1616765825) [![About me](https://img.shields.io/badge/-About%20me(Akash%20kumar)-violet?style=for-the-badge&logo=gitMemory&logoColor=yellow)](https://githubmemory.com/@Akash671)
 <br>
 <a href="https://hack.codingblocks.com/app/users/259785">CodeBlock</a>
 <br>
