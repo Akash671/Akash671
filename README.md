@@ -41,8 +41,8 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 [![spoj](https://img.shields.io/badge/-spoj(kal103)-SeaGreen2?style=for-the-badge&logo=spoj&logoColor=purple)](https://www.spoj.com/users/kal103/) [![projecteuler](https://img.shields.io/badge/-projecteuler(Akash1996)-gold?style=for-the-badge&logo=projecteuler&logoColor=green)](https://projecteuler.net/profile/Akash1996.png) [![codechef](https://img.shields.io/badge/-codechef(akash1996kumar)-cyan?style=for-the-badge&logo=CodeChef&logoColor=yellow)](https://www.codechef.com/users/akash1996kumar) 
 <br>
 [![GitLab](https://img.shields.io/badge/-gitlab(Akash671)-pink?style=for-the-badge&logo=GitLab&logoColor=purple)](https://gitlab.com/Akash671) [![GITea](https://img.shields.io/badge/-Gitea(Akash671)-violet?style=for-the-badge&logo=Gitea&logoColor=black)](https://try.gitea.io/Akash671) [<img alt="Codeforces" src="https://img.shields.io/badge/-codeforces(akashsaini(454545)-purple"/>](http://codeforces.com/profile/akashsaini454545)
-
-[![Codeforces](https://img.shields.io/badge/-codeforces(akashsaini(454545)-purple?style=for-the-badge&logo=CODEFORCES&logoColor=purple)](http://codeforces.com/profile/akashsaini454545)
+<br>
+[![codewars](https://img.shields.io/badge/-codewars(Akash671)-gold?style=for-the-badge&logo=Codewars&logoColor=purple)](https://www.codewars.com/users/Akash671)  [![codebyte](https://img.shields.io/badge/-coderbyte(Akash1996)-magenta?style=for-the-badge&logo=Coderbyte&logoColor=yellow)](https://www.coderbyte.com/profile/Akash1996) [![Atcoder](https://img.shields.io/badge/-Atcoder(Akash__1996)-SeaGreen2?style=for-the-badge&logo=AtCoder&logoColor=green)](https://atcoder.jp/users/Akash_1996)
 <br>
 <a href="https://www.codewars.com/users/Akash671">Codewar(Akash671)</a>
 <br>
