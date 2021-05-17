@@ -92,7 +92,7 @@ Others Competetive profile...
 </a>            
 
 ### Languages
-[![C++](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/150px-ISO_C%2B%2B_Logo.svg.png?style=for-the-badge&logo=C++&logoColor=purple)](https://en.wikipedia.org/wiki/C%2B%2B)[![C](https://www.pragimtech.com/wp-content/uploads/2020/03/c-tutorial-for-beginners.png?style=for-the-badge&logo=CSS3&logoColor=SeaGreen)](https://en.wikipedia.org/wiki/C_(programming_language))[![Java](https://static.javatpoint.com/core/images/what-is-core-java.png?style=for-the-badge&logo=javascript&logoColor=purple)](https://www.java.com)[![Python](https://img.shields.io/badge/Python-F1C3A0?style=for-the-badge&logo=python&logoColor=SeaGreen)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/-C%2B%2B-purple?style=for-the-badge&logo=C++&logoColor=purple)](https://en.wikipedia.org/wiki/C%2B%2B)[![C](https://img.shields.io/badge/-C%20Language-deep%20pink?style=for-the-badge&logo=CSS3&logoColor=SeaGreen)](https://en.wikipedia.org/wiki/C_(programming_language))[![Java](https://img.shields.io/badge/-Java-SeaGreen2?style=for-the-badge&logo=javascript&logoColor=purple)](https://www.java.com)[![Python](https://img.shields.io/badge/Python-F1C3A0?style=for-the-badge&logo=python&logoColor=SeaGreen)](https://www.python.org/)
 ### Databases
 [![MySQL](https://img.shields.io/badge/MySQL-FAD7A0?style=for-the-badge&logo=mysql&logoColor=purple)](http://www.ecmascript.org/)
 ### Tools
