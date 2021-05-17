@@ -34,7 +34,8 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 <br>
 [![codejam](https://img.shields.io/badge/-google%20code%20jam(Akash%401996)-yellow?style=for-the-badge&logo=google&logoColor=purple)](https://codingcompetitions.withgoogle.com/codejam/certificate/summary/00000000001857b3)  [![hackthebox](https://img.shields.io/badge/%20%20%20%20%20H-hackthebox(kal103)%20%20-pink?style=for-the-badge&logo=hackthebox&logoColor=yellow)](https://app.hackthebox.eu/profile/595653) [![Dcoder](https://img.shields.io/badge/%20%20%20%20%20%20D-dcoder(akashsaini)-blue?style=for-the-badge&logo=Dcoder&logoColor=green)](https://code.dcoder.tech/profile/akashsaini)
 <br>
-[![stackoverflow](https://img.shields.io/badge/%20%20%20-stackoverflow-pink?style=for-the-badge&logo=stackoverflow&logoColor=purple)](https://stackoverflow.com/users/14312178/akash-kumar?tab=profile/) [![leetcode](https://img.shields.io/badge/-leetcode(Akashsainimit1996)-gold?style=for-the-badge&logo=leetcode&logoColor=purple)](https://leetcode.com/Akashmit1996/) [<img alt="Newton School" src="https://img.shields.io/badge/-newtonschool(akashsainimit)-orange"/>](https://my.newtonschool.co/user/akashsainimit/) 
+[![stackoverflow](https://img.shields.io/badge/%20%20%20-stackoverflow-pink?style=for-the-badge&logo=stackoverflow&logoColor=purple)](https://stackoverflow.com/users/14312178/akash-kumar?tab=profile/) [![leetcode](https://img.shields.io/badge/-leetcode(Akashsainimit1996)-gold?style=for-the-badge&logo=leetcode&logoColor=purple)](https://leetcode.com/Akashmit1996/) [<img alt="Newton School" src="https://img.shields.io/badge/-newtonschool(akashsainimit)-orange"/>](https://my.newtonschool.co/user/akashsainimit/) [<img alt="ICPC" src="https://img.shields.io/badge/-ICPC-magenta"/>](https://icpc.global/private/profile/584919) 
+<br>
 <br>
 <a href="https://icpc.global/private/profile/584919">ICPC(International Collegiate Programming Contest)</a>
 <br>
