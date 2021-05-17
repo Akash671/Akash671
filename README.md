@@ -36,15 +36,9 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 <br>
 [![stackoverflow](https://img.shields.io/badge/%20%20%20-stackoverflow-pink?style=for-the-badge&logo=stackoverflow&logoColor=purple)](https://stackoverflow.com/users/14312178/akash-kumar?tab=profile/) [![leetcode](https://img.shields.io/badge/-leetcode(Akashsainimit1996)-gold?style=for-the-badge&logo=leetcode&logoColor=purple)](https://leetcode.com/Akashmit1996/) [<img alt="Newton School" src="https://img.shields.io/badge/-newtonschool(akashsainimit)-orange"/>](https://my.newtonschool.co/user/akashsainimit/) [<img alt="ICPC" src="https://img.shields.io/badge/-ICPC-magenta"/>](https://icpc.global/private/profile/584919) 
 <br>
+[![geeksforgeeks](https://img.shields.io/badge/-geeksforgeek(hitmanmit1996)-lightgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=purple)](https://auth.geeksforgeeks.org/user/hitmanmit1996/practice/)  [![hackerrank](https://img.shields.io/badge/-Hackerrank(akashsaini454545)-purple?style=for-the-badge&logo=hackerrank&logoColor=blue)](https://www.hackerrank.com/akashsaini454545) [![hackerearth](https://img.shields.io/badge/-Hackerearth(%40akash4031)-blue?style=for-the-badge&logo=hackerearth&logoColor=purple)](http://www.hackerearth.com/@akash4031">Hackerearth(akash4031))
 <br>
-<a href="https://icpc.global/private/profile/584919">ICPC(International Collegiate Programming Contest)</a>
-<br>
-<a href="https://stackoverflow.com/users/14312178/akash-kumar?tab=profile/">Stackoverflow</a>
-<br>
-<a href="https://my.newtonschool.co/user/akashsainimit/">Newton School(akashsainimit)</a>
-<br>
-<a href="https://leetcode.com/Akashmit1996/">leetcode(Akashmit1996)</a>
-<br>
+
 <a href="https://auth.geeksforgeeks.org/user/hitmanmit1996/practice/">Geeksforgeeks(hitmanmit1996)</a>
 <br>
 <a href="https://www.hackerrank.com/akashsaini454545">Hackerrank(akashsaini454545)</a>
