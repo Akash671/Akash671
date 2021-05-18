@@ -16,7 +16,7 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 <br>
 <br>
 
-[Contacts]
+### Contacts
 <br>
 <img align="left" alt="Akash's LinkdeIN" width="26px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/> <a href="https://www.linkedin.com/in/akash-kumar-52563018a/">LinkedIn</a>
 <br>
@@ -48,7 +48,7 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 <br>
 
 
-      Mostly use languages..
+### Mostly use languages..
 <a href="https://github.com/Akash671">
 <img align="center" alt="Akash's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Akash671&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>      <a href="https://github.com/Akash671">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Akash671&layout=compact&theme=radical&langs_count=10" />
@@ -67,7 +67,8 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 ### Technology
 [![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-blueviolet?style=for-the-badge&logo=machine-learning&logoColor=purple)](https://en.m.wikipedia.org/wiki/Machine_learning)  [![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence(AI)%20-SeaGreen2?style=for-the-badge&logo=AI&logoColor=purple)](https://en.m.wikipedia.org/wiki/Artificial_intelligence)
 <br>
-Profile Views
+
+### Profile Views
 
 ![Visitor Count](https://profile-counter.glitch.me/{Akash671}/count.svg)
 
@@ -84,7 +85,7 @@ Profile Views
 [<img alt="Gmail" src="https://img.shields.io/badge/@hitmanmit1996@GMAİL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](hitmanmit1996@gmail.com)
 
 
-# Featured Contents
+### Featured Contents
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash671&repo=ML-Project&theme=tokyonight)](https://github.com/Akash671/ML-Project)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash671&repo=Algorithms&theme=tokyonight)](https://github.com/Akash671/Algorithms)
 
@@ -97,7 +98,7 @@ Profile Views
 <br>
 <img alt="GIF" src="https://giffiles.alphacoders.com/578/57857.gif?raw=true" width="550" height="260"/> <img alt="GIF" src="https://i.imgur.com/uUgLY.gif?raw=true" width="260" height="260"/>
 <br>
-About me
+### About me
 <br>
 <img align="left" alt="GIF" src="https://github.com/Akash671/About_me/blob/main/hck.png?raw=true" width="400" height="240"/> <img align="center" alt="sGIF" src="https://github.com/Akash671/About_me/blob/main/gfg.png?raw=true" width="400" height="240"/>
 <br>
