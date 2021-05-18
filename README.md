@@ -61,7 +61,7 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 ### Tools
 [![Linux](https://img.shields.io/badge/Linux-FAD7A0?style=for-the-badge&logo=linux&logoColor=purple)](https://ubuntu.com/)  [![Bash](https://img.shields.io/badge/Bash-F8D1A4?style=for-the-badge&logo=gnu-bash&logoColor=purple)](https://www.gnu.org/software/bash/)  [![Git](https://img.shields.io/badge/Git-F5CBA7?style=for-the-badge&logo=git&logoColor=purple)](https://git-scm.com/)  [![Vim](https://img.shields.io/badge/Vim-F1C3A0?style=for-the-badge&logo=vim&logoColor=purple)](https://git-scm.com/)
 <br>
-[![Kali Linux](https://img.shields.io/badge/-Kali%20Linux%20-blue?style=for-the-badge&logo=kali&logoColor=purple)](https://kali.org/)  [![vs code](https://img.shields.io/badge/-vs%20code-light%20blue%20?style=for-the-badge&logo=microsoft&logoColor=purple)](https://code.visualstudio.com/)  [![spyder](https://img.shields.io/badge/-spyder%20-magenta?style=for-the-badge&logo=spyder&logoColor=purple)](https://git-scm.com/)  [![jupyter lab](https://img.shields.io/badge/-jupyter%20lab-gold?style=for-the-badge&logo=jupyter&logoColor=purple)](https://jupyter.org/)
+[![Kali Linux](https://img.shields.io/badge/-Kali%20Linux%20-blue?style=for-the-badge&logo=kali&logoColor=purple)](https://kali.org/)  [![vs code](https://img.shields.io/badge/-vs%20code-light%20blue%20?style=for-the-badge&logo=microsoft&logoColor=purple)](https://code.visualstudio.com/)  [![spyder](https://img.shields.io/badge/-spyder%20-magenta?style=for-the-badge&logo=anaconda&logoColor=purple)](https://www.anaconda.com/products/individual)  [![jupyter lab](https://img.shields.io/badge/-jupyter%20lab-gold?style=for-the-badge&logo=jupyter&logoColor=purple)](https://jupyter.org/)
 
 Profile Views
 
