@@ -56,7 +56,7 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 </a>            
 
 ### Languages
-[![C++](https://img.shields.io/badge/-C%2B%2B-purple?style=for-the-badge&logo=C++&logoColor=purple)](https://en.wikipedia.org/wiki/C%2B%2B)  [![C](https://img.shields.io/badge/-C%20Language-deep%20pink?style=for-the-badge&logo=C&logoColor=SeaGreen)](https://en.wikipedia.org/wiki/C_(programming_language))  [![Java](https://img.shields.io/badge/-Java-SeaGreen2?style=for-the-badge&logo=java&logoColor=purple)](https://www.java.com)  [![Python](https://img.shields.io/badge/Python-F1C3A0?style=for-the-badge&logo=python&logoColor=SeaGreen)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/-C%2B%2B-purple?style=for-the-badge&logo=C++&logoColor=purple)](https://www.hackerrank.com/akashsaini454545)  [![C](https://img.shields.io/badge/-C%20Language-deep%20pink?style=for-the-badge&logo=C&logoColor=SeaGreen)](https://www.hackerrank.com/akashsaini454545)  [![Java](https://img.shields.io/badge/-Java-SeaGreen2?style=for-the-badge&logo=java&logoColor=purple)](https://www.hackerrank.com/akashsaini454545)  [![Python](https://img.shields.io/badge/Python-F1C3A0?style=for-the-badge&logo=python&logoColor=SeaGreen)](https://www.hackerrank.com/akashsaini454545)
 ### Databases
 [![MySQL](https://img.shields.io/badge/MySQL-FAD7A0?style=for-the-badge&logo=mysql&logoColor=purple)](http://www.ecmascript.org/)
 ### Tools
