@@ -56,7 +56,7 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 </a>            
 
 ### Languages
-[![C++](https://img.shields.io/badge/-C%2B%2B-purple?style=for-the-badge&logo=C++&logoColor=purple)](https://en.wikipedia.org/wiki/C%2B%2B)  [![C](https://img.shields.io/badge/-C%20Language-deep%20pink?style=for-the-badge&logo=C&logoColor=SeaGreen)](https://en.wikipedia.org/wiki/C_(programming_language))  [![Java](https://img.shields.io/badge/-Java-SeaGreen2?style=for-the-badge&logo=java&logoColor=purple)](https://www.java.com)  [![Python](https://img.shields.io/badge/Python-F1C3A0?style=for-the-badge&logo=python&logoColor=SeaGreen)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/-C%2B%2B-purple?style=for-the-badge&logo=C++&logoColor=purple)](https://en.wikipedia.org/wiki/C%2B%2B)  [![C](https://img.shields.io/badge/-C%20Language-deep%20pink?style=for-the-badge&logo=C&logoColor=SeaGreen)](https://en.wikipedia.org/wiki/C_(programming_language))  [![Java](https://img.shields.io/badge/-Java-SeaGreen2?style=for-the-badge&logo=java&logoColor=purple)](https://www.java.com)  [![Python](https://img.shields.io/badge/Python-F1C3A0?style=for-the-badge&logo=python&logoColor=SeaGreen)](https://www.python.org/) [![linux script](https://img.shields.io/badge/-Linux-script-purple?style=for-the-badge&logo=shell&logoColor=purple)](https://github.com/Akash671/linux_script)
 ### Databases
 [![MySQL](https://img.shields.io/badge/MySQL-FAD7A0?style=for-the-badge&logo=mysql&logoColor=purple)](http://www.ecmascript.org/)
 ### Tools
@@ -64,7 +64,7 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 <br>
 [![Kali Linux](https://img.shields.io/badge/-Kali%20Linux%20-purple?style=for-the-badge&logo=kali-linux&logoColor=FAD7A0)](https://kali.org/)  [![vs code](https://img.shields.io/badge/-vs%20code-light%20blue%20?style=for-the-badge&logo=microsoft&logoColor=FAD7A0)](https://code.visualstudio.com/)  [![spyder](https://img.shields.io/badge/-spyder%20-magenta?style=for-the-badge&logo=anaconda&logoColor=purple)](https://www.anaconda.com/products/individual)  [![jupyter lab](https://img.shields.io/badge/-jupyter%20lab-gold?style=for-the-badge&logo=jupyter&logoColor=purple)](https://jupyter.org/)
 <br>
-[![Github](https://img.shields.io/badge/github-purple?style=for-the-badge&logo=github&logoColor=FAD7A0)](https://github.com/Akash671)  [![GitLab](https://img.shields.io/badge/gitlab-violet?style=for-the-badge&logo=gitlab&logoColor=FAD7A0)](https://gitlab.com/Akash671)  [![windows](https://img.shields.io/badge/-windows%20-magenta?style=for-the-badge&logo=windows&logoColor=purple)](https://www.anaconda.com/products/individual)
+[![Github](https://img.shields.io/badge/github-purple?style=for-the-badge&logo=github&logoColor=FAD7A0)](https://github.com/Akash671)  [![GitLab](https://img.shields.io/badge/gitlab-violet?style=for-the-badge&logo=gitlab&logoColor=FAD7A0)](https://gitlab.com/Akash671)  [![windows](https://img.shields.io/badge/-windows%20-magenta?style=for-the-badge&logo=windows&logoColor=purple)](https://www.microsoft.com/en-in/windows)
 
 ### Technology
 [![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-blueviolet?style=for-the-badge&logo=machine-learning&logoColor=purple)](https://en.m.wikipedia.org/wiki/Machine_learning)  [![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence(AI)%20-SeaGreen2?style=for-the-badge&logo=AI&logoColor=purple)](https://en.m.wikipedia.org/wiki/Artificial_intelligence)
