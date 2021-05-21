@@ -74,7 +74,7 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 ### Intrest
 [![Google](https://img.shields.io/badge/-Google-blueviolet?style=for-the-badge&logo=google&logoColor=red)](https://www.google.com/)  [![Apple](https://img.shields.io/badge/-Apple-SeaGreen2?style=for-the-badge&logo=Apple&logoColor=black)](https://www.apple.com/)
 <br>
-[![Microsoft](https://img.shields.io/badge/-Microsoft-powderblue?style=for-the-badge&logo=microsoft&logoColor=SeaGreen2)](https://www.microsoft.com/)  [![Intel](https://img.shields.io/badge/-Intel-lightblue?style=for-the-badge&logo=intel&logoColor=purple)](https://www.intel.com/)
+[![Microsoft](https://img.shields.io/badge/-Microsoft-black?style=for-the-badge&logo=microsoft&logoColor=pink)](https://www.microsoft.com/)  [![Intel](https://img.shields.io/badge/-Intel-lightblue?style=for-the-badge&logo=intel&logoColor=purple)](https://www.intel.com/)
 <br>
 [![Facebook](https://img.shields.io/badge/-Facebook-blueviolet?style=for-the-badge&logo=facebook&logoColor=magenta)](https://www.facebook.com/)  [![Infosys](https://img.shields.io/badge/-Infosys-SeaGreen2?style=for-the-badge&logo=infosys&logoColor=SeaGreen)](https://www.infosys.com/)
 <br>
