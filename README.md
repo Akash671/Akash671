@@ -55,7 +55,7 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash671&layout=compact&theme=radical&langs_count=10" />
 </a>            
 
-### Languages
+### Skills
 [![C++](https://img.shields.io/badge/-C%2B%2B-purple?style=for-the-badge&logo=C++&logoColor=purple)](https://www.hackerrank.com/akashsaini454545)  [![C](https://img.shields.io/badge/-C%20Language-deep%20pink?style=for-the-badge&logo=C&logoColor=SeaGreen)](https://www.hackerrank.com/akashsaini454545)  [![Java](https://img.shields.io/badge/-Java-SeaGreen2?style=for-the-badge&logo=java&logoColor=purple)](https://www.hackerrank.com/akashsaini454545)  [![Python](https://img.shields.io/badge/Python-F1C3A0?style=for-the-badge&logo=python&logoColor=SeaGreen)](https://www.hackerrank.com/akashsaini454545)
 ### Databases
 [![MySQL](https://img.shields.io/badge/MySQL-FAD7A0?style=for-the-badge&logo=mysql&logoColor=purple)](http://www.ecmascript.org/)
