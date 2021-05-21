@@ -72,7 +72,7 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 <br>
 
 ### Intrest
-[![Google](https://img.shields.io/badge/-Google-blueviolet?style=for-the-badge&logo=google&logoColor=red)](https://www.google.com/)  [![Apple](https://img.shields.io/badge/-Apple-SeaGreen2?style=for-the-badge&logo=Apple&logoColor=black)](https://www.apple.com/)
+[![Google](https://img.shields.io/badge/-Google-blueviolet?style=for-the-badge&logo=google&logoColor=red)](https://www.google.com/)  [![Apple](https://img.shields.io/badge/-Apple-blue?style=for-the-badge&logo=Apple&logoColor=black)](https://www.apple.com/)
 <br>
 [![Microsoft](https://img.shields.io/badge/-Microsoft-red?style=for-the-badge&logo=microsoft&logoColor=black)](https://www.microsoft.com/)  [![Intel](https://img.shields.io/badge/-Intel-gold?style=for-the-badge&logo=intel&logoColor=purple)](https://www.intel.com/)
 <br>
