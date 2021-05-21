@@ -51,6 +51,7 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 
 ### Mostly use languages..
 <a href="https://github.com/Akash671">
+[![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akash671)](https://github.com/Akash671/github-readme-stats)
 <img align="center" alt="Akash's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Akash671&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>     <a href="https://github.com/Akash671">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Akash671&layout=compact&theme=radical&langs_count=10" />
 </a>            
@@ -106,7 +107,3 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 <br>
 <br>
 <img align="left" alt="GIF" src="https://github.com/Akash671/About_me/blob/main/decoder.png?raw=true" width="400" height="240"/><img align="center" alt="GIF" src="https://github.com/Akash671/About_me/blob/main/google.jpg?raw=true" width="400" height="240"/>
-
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
