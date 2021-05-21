@@ -50,8 +50,7 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 
 
 ### Mostly use languages..
-<a href="https://github.com/Akash671">
-[![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akash671)](https://github.com/Akash671/)
+<a href="https://github.com/Akash671"
 <img align="center" alt="Akash's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Akash671&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>     <a href="https://github.com/Akash671">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Akash671&layout=compact&theme=radical&langs_count=10" />
 </a>            
