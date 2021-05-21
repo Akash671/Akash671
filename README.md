@@ -64,7 +64,8 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 <br>
 [![Kali Linux](https://img.shields.io/badge/-Kali%20Linux%20-purple?style=for-the-badge&logo=kali-linux&logoColor=FAD7A0)](https://kali.org/)  [![vs code](https://img.shields.io/badge/-vs%20code-light%20blue%20?style=for-the-badge&logo=microsoft&logoColor=FAD7A0)](https://code.visualstudio.com/)  [![spyder](https://img.shields.io/badge/-spyder%20-magenta?style=for-the-badge&logo=anaconda&logoColor=purple)](https://www.anaconda.com/products/individual)  [![jupyter lab](https://img.shields.io/badge/-jupyter%20lab-gold?style=for-the-badge&logo=jupyter&logoColor=purple)](https://jupyter.org/)
 <br>
-[![Github](https://img.shields.io/badge/github-purple?style=for-the-badge&logo=github&logoColor=FAD7A0)](https://github.com/Akash671)  [![GitLab](https://img.shields.io/badge/gitlab-violet?style=for-the-badge&logo=gitlab&logoColor=FAD7A0)](https://gitlab.com/Akash671)  [![windows](https://img.shields.io/badge/-windows%20-magenta?style=for-the-badge&logo=windows&logoColor=purple)](https://www.microsoft.com/en-in/windows)
+[![Github](https://img.shields.io/badge/github-purple?style=for-the-badge&logo=github&logoColor=FAD7A0)](https://github.com/Akash671)  [![GitLab](https://img.shields.io/badge/gitlab-violet?style=for-the-badge&logo=gitlab&logoColor=FAD7A0)](https://gitlab.com/Akash671)  [![windows](https://img.shields.io/badge/-windows%20-magenta?style=for-the-badge&logo=windows&logoColor=purple)](https://www.microsoft.com/en-in/windows) [![Android](https://img.shields.io/badge/-android%20studio-magenta?style=for-the-badge&logo=android&logoColor=purple)](https://www.android.com/)
+
 
 ### Technology
 [![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-blueviolet?style=for-the-badge&logo=machine-learning&logoColor=purple)](https://en.m.wikipedia.org/wiki/Machine_learning)  [![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence(AI)%20-SeaGreen2?style=for-the-badge&logo=AI&logoColor=purple)](https://en.m.wikipedia.org/wiki/Artificial_intelligence)
@@ -73,7 +74,7 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 ### Intrest
 [![Google](https://img.shields.io/badge/-Google-blueviolet?style=for-the-badge&logo=google&logoColor=red)](https://www.google.com/)  [![Apple](https://img.shields.io/badge/-Apple-SeaGreen2?style=for-the-badge&logo=Apple&logoColor=black)](https://www.apple.com/)
 <br>
-[![Microsoft](https://img.shields.io/badge/-Microsoft-pink?style=for-the-badge&logo=microsoft&logoColor=gold)](https://www.microsoft.com/)  [![Intel](https://img.shields.io/badge/-Intel-lightblue?style=for-the-badge&logo=intel&logoColor=purple)](https://www.intel.com/)
+[![Microsoft](https://img.shields.io/badge/-Microsoft-powderblue?style=for-the-badge&logo=microsoft&logoColor=SeaGreen2)](https://www.microsoft.com/)  [![Intel](https://img.shields.io/badge/-Intel-lightblue?style=for-the-badge&logo=intel&logoColor=purple)](https://www.intel.com/)
 <br>
 [![Facebook](https://img.shields.io/badge/-Facebook-blueviolet?style=for-the-badge&logo=facebook&logoColor=magenta)](https://www.facebook.com/)  [![Infosys](https://img.shields.io/badge/-Infosys-SeaGreen2?style=for-the-badge&logo=infosys&logoColor=SeaGreen)](https://www.infosys.com/)
 <br>
