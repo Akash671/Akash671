@@ -78,7 +78,7 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 <br>
 [![Facebook](https://img.shields.io/badge/-Facebook-blueviolet?style=for-the-badge&logo=facebook&logoColor=magenta)](https://www.facebook.com/)  [![Infosys](https://img.shields.io/badge/-Infosys-blue?style=for-the-badge&logo=infosys&logoColor=SeaGreen)](https://www.infosys.com/)
 <br>
-[![NASA](https://img.shields.io/badge/-NASA-gold?style=for-the-badge&logo=nasa&logoColor=blue)](https://www.nasa.com/)  [![IBM](https://img.shields.io/badge/-IBM-violet?style=for-the-badge&logo=ibm&logoColor=SeaGreen2)](https://www.ibm.com/)
+[![NASA](https://img.shields.io/badge/-NASA-cyan?style=for-the-badge&logo=nasa&logoColor=blue)](https://www.nasa.com/)  [![IBM](https://img.shields.io/badge/-IBM-violet?style=for-the-badge&logo=ibm&logoColor=SeaGreen2)](https://www.ibm.com/)
 <br>
 ### Profile Views
 
