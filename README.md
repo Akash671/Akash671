@@ -45,6 +45,7 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 [![codewars](https://img.shields.io/badge/-codewars(Akash671)-gold?style=for-the-badge&logo=Codewars&logoColor=purple)](https://www.codewars.com/users/Akash671)  [![codebyte](https://img.shields.io/badge/-coderbyte(Akash1996)-magenta?style=for-the-badge&logo=Coderbyte&logoColor=yellow)](https://www.coderbyte.com/profile/Akash1996) [![Atcoder](https://img.shields.io/badge/-Atcoder(Akash__1996)-SeaGreen2?style=for-the-badge&logo=AtCoder&logoColor=green)](https://atcoder.jp/users/Akash_1996)
 <br>
 [<img alt="CodeBlock" src="https://img.shields.io/badge/-codeblock(Akash%20kumar)-purple"/>](https://hack.codingblocks.com/app/users/259785) [<img alt="codingninjas" src="https://img.shields.io/badge/-coding%20ninjas-blue"/>](https://hack.codingblocks.com/app/users/259785) [<img alt="interview coding" src="https://img.shields.io/badge/-interview%20coding-cyan2"/>](https://www.techiedelight.com/data-structures-and-algorithms-problems/) [<img alt="About me" src="https://img.shields.io/badge/-About%20me(Akash%20kumar)-violet"/>](https://githubmemory.com/@Akash671)
+[<img alt="coding" src="https://img.shields.io/badge/-coding(Akash%20kumar)-red"/>](https://edabit.com/user/T6wFB74XCpxnFoQG4)
 <br>
 <br>
 
