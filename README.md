@@ -108,9 +108,7 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash671&repo=AI&theme=tokyonight)](https://github.com/Akash671/AI)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash671&repo=C_C-&theme=tokyonight)](https://github.com/Akash671/C_C-)
 <br>
-<br>
-<img alt="GIF" src="https://giffiles.alphacoders.com/578/57857.gif?raw=true" width="550" height="260"/> <img alt="GIF" src="https://i.imgur.com/uUgLY.gif?raw=true" width="260" height="260"/>
-<br>
+
 ### About me
 <br>
 <img align="left" alt="GIF" src="https://github.com/Akash671/About_me/blob/main/hck.png?raw=true" width="400" height="240"/> <img align="center" alt="sGIF" src="https://github.com/Akash671/About_me/blob/main/gfg.png?raw=true" width="400" height="240"/>
