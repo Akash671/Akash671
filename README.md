@@ -72,15 +72,16 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 ### Technology
 [![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-blueviolet?style=for-the-badge&logo=machine-learning&logoColor=purple)](https://en.m.wikipedia.org/wiki/Machine_learning)  [![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence(AI)%20-SeaGreen2?style=for-the-badge&logo=AI&logoColor=purple)](https://en.m.wikipedia.org/wiki/Artificial_intelligence)
 <br>
-
+[![cyber security(https://img.shields.io/badge/-@cyber%20security-deep pink?style=for-the-badge&logo=security&logoColor=purple)](https://www.github.com)
+<br>
 ### Intrest
 [![Google](https://img.shields.io/badge/-Google-blueviolet?style=for-the-badge&logo=google&logoColor=red)](https://www.google.com/)  [![Apple](https://img.shields.io/badge/-Apple-blue?style=for-the-badge&logo=Apple&logoColor=black)](https://www.apple.com/)
 <br>
 [![Microsoft](https://img.shields.io/badge/-Microsoft-red?style=for-the-badge&logo=microsoft&logoColor=black)](https://www.microsoft.com/)  [![Intel](https://img.shields.io/badge/-Intel-gold?style=for-the-badge&logo=intel&logoColor=purple)](https://www.intel.com/)
 <br>
-[![Facebook](https://img.shields.io/badge/-Facebook-blueviolet?style=for-the-badge&logo=facebook&logoColor=magenta)](https://www.facebook.com/)  [![Infosys](https://img.shields.io/badge/-Infosys-blue?style=for-the-badge&logo=infosys&logoColor=SeaGreen)](https://www.infosys.com/)
+[![Facebook](https://img.shields.io/badge/-@Facebook%20ink-blueviolet?style=for-the-badge&logo=facebook&logoColor=magenta)](https://www.facebook.com/)  [![Infosys](https://img.shields.io/badge/-Infosys-blue?style=for-the-badge&logo=infosys&logoColor=SeaGreen)](https://www.infosys.com/)
 <br>
-[![NASA](https://img.shields.io/badge/-NASA-cyan?style=for-the-badge&logo=nasa&logoColor=blue)](https://www.nasa.com/)  [![IBM](https://img.shields.io/badge/-IBM-violet?style=for-the-badge&logo=ibm&logoColor=SeaGreen2)](https://www.ibm.com/)
+[![NASA](https://img.shields.io/badge/-@NASA-cyan?style=for-the-badge&logo=nasa&logoColor=blue)](https://www.nasa.com/)  [![IBM](https://img.shields.io/badge/-IBM-violet?style=for-the-badge&logo=ibm&logoColor=SeaGreen2)](https://www.ibm.com/)
 <br>
 ### Profile Views
 
