@@ -72,7 +72,7 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 ### Technology
 [![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-blueviolet?style=for-the-badge&logo=machine-learning&logoColor=purple)](https://en.m.wikipedia.org/wiki/Machine_learning)  [![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence(AI)%20-SeaGreen2?style=for-the-badge&logo=AI&logoColor=purple)](https://en.m.wikipedia.org/wiki/Artificial_intelligence)
 <br>
-[![cyber security](https://img.shields.io/badge/-@cyber%20security-pink?style=for-the-badge&logo=kali&logoColor=purple)](https://www.github.com)
+[![cyber security](https://img.shields.io/badge/-@cyber%20security-pink?style=for-the-badge&logo=kali-linux&logoColor=purple)](https://www.github.com)
 <br>
 ### Intrest
 [![Google](https://img.shields.io/badge/-Google-blueviolet?style=for-the-badge&logo=google&logoColor=red)](https://www.google.com/)  [![Apple](https://img.shields.io/badge/-Apple-blue?style=for-the-badge&logo=Apple&logoColor=black)](https://www.apple.com/)
