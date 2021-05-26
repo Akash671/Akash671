@@ -1,5 +1,5 @@
 
-[![Akash](https://img.shields.io/badge/Akash%20Kumar%20(github devloper member)-violet?style=for-the-badge&logo=github&logoColor=purple)](http://www.github.com/Akash671) 
+[![Akash](https://img.shields.io/badge/Akash%20Kumar%20(github)-violet?style=for-the-badge&logo=github&logoColor=purple)](http://www.github.com/Akash671) 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
 <img align="right" alt="GIF" src="https://camo.githubusercontent.com/97d1828fe16ccca3417229fc085cfc96062bd74c8787f80131ddc9462ce4ed51/68747470733a2f2f736f6669616e6568616d6c616f75692e6769746875622e696f2f6a756e6b2f6c6f636b646f6f722f6c6f676f732f6c6f676f323035783235302e676966?raw=true" width="400" height="250"/>
