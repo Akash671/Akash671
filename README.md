@@ -102,13 +102,13 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 
 ### Featured Contents
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash671&repo=ML-Project&theme=tokyonight)](https://github.com/Akash671/ML-Project)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash671&repo=Algorithms&theme=tokyonight)](https://github.com/Akash671/Algorithms)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash671&repo=ML-Project&theme=tokyonight)](https://githubmemory.com/repo/Akash671/ML-Project)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash671&repo=Algorithms&theme=tokyonight)](https://githubmemory.com/repo/Akash671/Algorithms)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash671&repo=KickStart&theme=tokyonight)](https://github.com/Akash671/KickStart)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash671&repo=geeksforgeeks&theme=tokyonight)](https://github.com/Akash671/geeksforgeeks)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash671&repo=KickStart&theme=tokyonight)](https://githubmemory.com/repo/Akash671/KickStart)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash671&repo=geeksforgeeks&theme=tokyonight)](https://githubmemory.com/repo/Akash671/geeksforgeeks)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash671&repo=linux_script&theme=tokyonight)](https://github.com/Akash671/linux_script)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash671&repo=Codechef&theme=tokyonight)](https://github.com/Akash671/Codechef)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash671&repo=linux_script&theme=tokyonight)](https://githubmemory.com/repo/Akash671/linux_script)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash671&repo=Codechef&theme=tokyonight)](https://githubmemory.com/repo/Akash671/Codechef)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash671&repo=AI&theme=tokyonight)](https://github.com/Akash671/AI)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash671&repo=C_C-&theme=tokyonight)](https://github.com/Akash671/C_C-)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash671&repo=AI&theme=tokyonight)](https://githubmemory.com/repo/Akash671/AI)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash671&repo=C_C-&theme=tokyonight)](https://githubmemory.com/repo/Akash671/C_C-)
 <br>
 
 ### About me
