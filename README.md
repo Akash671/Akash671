@@ -117,3 +117,6 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 <br>
 <br>
 <img align="left" alt="GIF" src="https://github.com/Akash671/About_me/blob/main/decoder.png?raw=true" width="400" height="240"/><img align="center" alt="GIF" src="https://github.com/Akash671/About_me/blob/main/google.jpg?raw=true" width="400" height="240"/>
+<br>
+<br>
+<img align="right" alt="GIF" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/PascalTriangleAnimated2.gif?raw=true" width="400" height="250"/>
