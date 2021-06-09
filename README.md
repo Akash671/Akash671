@@ -48,6 +48,7 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 [<img alt="CodeBlock" src="https://img.shields.io/badge/-codeblock(Akash%20kumar)-purple"/>](https://hack.codingblocks.com/app/users/259785) [<img alt="codingninjas" src="https://img.shields.io/badge/-coding%20ninjas-blue"/>](https://hack.codingblocks.com/app/users/259785) [<img alt="interview coding" src="https://img.shields.io/badge/-interview%20coding-cyan2"/>](https://www.techiedelight.com/data-structures-and-algorithms-problems/) [<img alt="About me" src="https://img.shields.io/badge/-About%20me(Akash%20kumar)-violet"/>](https://githubmemory.com/@Akash671)
 [<img alt="coding" src="https://img.shields.io/badge/-coding(Akash%20kumar)-red"/>](https://edabit.com/user/T6wFB74XCpxnFoQG4)
 <br>
+[<img alt="InterViewbit" src="https://img.shields.io/badge/-Interviewbit(Akash_1996)-purple"/>](https://www.interviewbit.com/profile/Akash_1996)
 <br>
 
 
