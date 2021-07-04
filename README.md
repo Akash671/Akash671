@@ -21,7 +21,6 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 <br>
 [<img alt="Youtube" src="https://img.shields.io/badge/Youtube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>](https://www.youtube.com/channel/UCdS5sKVVkfv8ULgbIBNJxQQ) 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/akash-kumar-52563018a/) 
-<br>
 [<img alt="Gmail" src="https://img.shields.io/badge/@hitmanmit1996@GMAİL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](hitmanmit1996@gmail.com)
 [<img alt="Medium" src="https://img.shields.io/badge/Medium(@akashsaininasa)?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@akashsaininasa)
 <br>
