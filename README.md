@@ -19,7 +19,7 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 
 ### Contacts
 <br>
-[Linkedln](https://img.shields.io/badge/Linkedln-blueviolet?style=for-the-badge&logo=linkedln&logoColor=purple)](https://www.linkedin.com/in/akash-kumar-52563018a/)
+[Linkedln](https://img.shields.io/badge/Linkedln-blueviolet?style=for-the-badge&logo=LinkedIn&logoColor=purple)](https://www.linkedin.com/in/akash-kumar-52563018a/)
 <img align="left" alt="Akash's LinkdeIN" width="100px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/> <a href="https://www.linkedin.com/in/akash-kumar-52563018a/">LinkedIn</a>
 <br>
 <br>
