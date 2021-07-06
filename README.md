@@ -112,8 +112,9 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 
 ### About me
 <br>
-<img align="left" alt="GIF" src="https://github.com/Akash671/About_me/blob/main/hck.png?raw=true" width="400" height="240"/> <img align="center" alt="sGIF" src="https://github.com/Akash671/About_me/blob/main/gfg.png?raw=true" width="400" height="240"/>
+<a href="http://www.hackerearth.com/@akash4031">
+<img align="left" alt="GIF" src="https://github.com/Akash671/About_me/blob/main/hck.png?raw=true" width="400" height="240"/></a><a href="https://auth.geeksforgeeks.org/user/hitmanmit1996/practice/"><img align="center" alt="sGIF" src="https://github.com/Akash671/About_me/blob/main/gfg.png?raw=true" width="400" height="240"/><a/>
 <br>
 <br>
 <a href="https://code.dcoder.tech/profile/akashsaini">
-<img align="left" alt="GIF" src="https://github.com/Akash671/About_me/blob/main/decoder.png?raw=true" width="400" height="240"/></a><img align="center" alt="GIF" src="https://github.com/Akash671/About_me/blob/main/google.jpg?raw=true" width="400" height="240"/>
+<img align="left" alt="GIF" src="https://github.com/Akash671/About_me/blob/main/decoder.png?raw=true" width="400" height="240"/></a><a href="https://codingcompetitions.withgoogle.com/kickstart/certificate/summary/000000000019ffc6"><img align="center" alt="GIF" src="https://github.com/Akash671/About_me/blob/main/google.jpg?raw=true" width="400" height="240"/></a>
