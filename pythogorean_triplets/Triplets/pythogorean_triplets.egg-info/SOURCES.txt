@@ -1,0 +1,7 @@
+README.md
+setup.cfg
+setup.py
+Triplets/pythogorean_triplets.egg-info/PKG-INFO
+Triplets/pythogorean_triplets.egg-info/SOURCES.txt
+Triplets/pythogorean_triplets.egg-info/dependency_links.txt
+Triplets/pythogorean_triplets.egg-info/top_level.txt
