@@ -107,7 +107,7 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash671&repo=linux_script&theme=tokyonight)](https://githubmemory.com/repo/Akash671/linux_script)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash671&repo=Codechef&theme=tokyonight)](https://githubmemory.com/repo/Akash671/Codechef)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash671&repo=AI&theme=tokyonight)](https://githubmemory.com/repo/Akash671/AI)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash671&repo=C_C-&theme=tokyonight)](https://githubmemory.com/repo/Akash671/C_C-)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash671&repo=AI&theme=tokyonight)](https://githubmemory.com/repo/Akash671/AI)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akash671&repo=software&theme=tokyonight)](https://githubmemory.com/repo/Akash671/software)
 <br>
 
 ### About me
