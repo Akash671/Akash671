@@ -7,7 +7,7 @@
 
 
 
-I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash671</a>),i am a <a href="https://code.dcoder.tech/profile/akashsaini">competitive programmer</a> and machine learning engineer as a student with strong background in mathematics, statistics, and <a href="https://www.hackerrank.com/akashsaini454545">problem solving</a>. I am doing bachelor of technology(B.Tech) in computer science & engineering(cse) at <a href="https://www.mitmoradabad.edu.in/" target="_blank"> Moradabad Institute Of Technology Moradabad, Uttar Pradesh India</a>, with majors in technology and bachelor in science supported by<a href="https://aktu.ac.in/"> A.P.J Abdul Kalam Technical University(AKTU) </a>with majors in engineering and operational research. That is all about me and thank you.</a>
+I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash671</a>),i am a <a href="https://code.dcoder.tech/profile/akashsaini">competitive programmer</a> and machine learning engineer as a student with strong background in mathematics, statistics, and <a href="https://www.hackerrank.com/akashsaini454545">problem solving</a>. I am doing bachelor of technology(B.Tech) in computer science & engineering(cse) at <a href="https://www.mitmoradabad.edu.in/" target="_blank"> Moradabad Institute Of Technology Moradabad, Uttar Pradesh India</a>, with majors in technology and bachelor in science supported by<a href="https://aktu.ac.in/"> A.P.J Abdul Kalam Technical University(AKTU) </a>with majors in engineering and operational research.Thank you.</a>
 
 <br>
 <br>
