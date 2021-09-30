@@ -28,7 +28,7 @@ I'm **Akash Kumar**(<a href="https://github.com/Akash671/" target="_blank">Akash
 <br>
 <br>
 
-### Competitive programming profile
+### Competitive programming profiles
 [![Facebook HackerCup](https://img.shields.io/badge/Facebook%20HackerCup-blueviolet?style=for-the-badge&logo=Facebook&logoColor=purple)](https://www.facebook.com/codingcompetitions/hacker-cup/)  [![Topcoder](https://img.shields.io/badge/-Topcoder(Akash__1996)-purple?style=for-the-badge&logo=Topcoder&logoColor=black)](https://www.topcoder.com/) [![kickstart](https://img.shields.io/badge/-google%20kick%20start(Akash%401996)-ff69b4?style=for-the-badge&logo=google&logoColor=purple)](https://codingcompetitions.withgoogle.com/kickstart/certificate/summary/000000000019ffc6)
 <br>
 [![codejam](https://img.shields.io/badge/-google%20code%20jam(Akash%401996)-yellow?style=for-the-badge&logo=google&logoColor=purple)](https://codingcompetitions.withgoogle.com/codejam/certificate/summary/00000000001857b3)  [![hackthebox](https://img.shields.io/badge/%20%20%20%20%20H-hackthebox(kal103)%20%20-pink?style=for-the-badge&logo=hackthebox&logoColor=yellow)](https://app.hackthebox.eu/profile/595653) [![Dcoder](https://img.shields.io/badge/%20%20%20%20%20%20D-dcoder(akashsaini)-blue?style=for-the-badge&logo=Dcoder&logoColor=green)](https://code.dcoder.tech/profile/akashsaini)
